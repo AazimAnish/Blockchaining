@@ -1,6 +1,6 @@
 # ChristmasStringConcat Smart Contract 
 
-[![Sepolia]([https://img.shields.io/badge/Sepolia-Contract-blue)](https://sepolia.etherscan.io/tx/0xf2677f4908d65c7c228c4cd76cc1223b487ef19c6570dcebd0e0177508e214f1)
+[![Sepolia](https://img.shields.io/badge/Sepolia-Contract-blue)](https://sepolia.etherscan.io/tx/0xf2677f4908d65c7c228c4cd76cc1223b487ef19c6570dcebd0e0177508e214f1)
 
 ```
 // contracts/ChristmasGreeting.sol
